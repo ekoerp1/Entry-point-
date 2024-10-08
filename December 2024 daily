@@ -1,0 +1,65 @@
++------------+----------------+---------+---------------------------------------------------------+
+| Date       | Mission        | Tactic  | Modifiers                                               |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-01 | The Killhouse  | Loud    | No Aegis Armor, Glass Cannon, Flashbang Revenge         |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-02 | # The Score    | Loud    | Criminal Arsenal, Aegis Academy, Explosive Revenge      |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-03 | The Killhouse  | Loud    | Flashbang Frenzy, One Shot, Less Health                 |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-04 | Black Dusk     | Loud    | Armera Arsenal, No Hybrid Classes, Hidden UI            |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-05 | The Scientist  | Loud    | Glass Cannon, Aegis Academy, No Explosives              |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-06 | The Deposit    | Stealth | Misplaced Gear, No Scrambler, Fifteen Minutes           |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-07 | # The Auction  | Stealth | Fog, Reinforced Locks, Faster Detection                 |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-08 | The SCRS       | Loud    | Mandatory Headshots, Criminal Arsenal, Shield Swarm     |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-09 | The Blacksite  | Stealth | Reinforced Doors, Heavy Bags, Hidden Detection Bars     |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-10 | The Withdrawal | Stealth | Cascade Arsenal, Reinforced Cameras, No Moving Bodies   |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-11 | The Financier  | Stealth | No Suppressors, Hidden Detection Bars, No Lockpicks     |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-12 | # The Score    | Loud    | No Aegis Armor, Flashbang Revenge, Explosive Flashbangs |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-13 | The SCRS       | Stealth | Extra Cameras, Heavy Bags, Faster Detection             |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-14 | The Financier  | Loud    | No Equipment Bags, Weaker Medkits, Flashbang Revenge    |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-15 | The Withdrawal | Loud    | Flashbang Frenzy, One Shot, Explosive Flashbangs        |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-16 | The Lakehouse  | Stealth | No Interrogation, Inexperienced, Hidden Detection Bars  |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-17 | # The Cache    | Stealth | No Safecracking, Bloodless, Reinforced Cameras          |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-18 | The Scientist  | Loud    | Fog, No Heavy Armor, Hidden UI                          |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-19 | Black Dusk     | Loud    | Cascade Arsenal, Aegis Academy, Shield Swarm            |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-20 | The Deposit    | Loud    | Small Arms Only, Explosive Revenge, No Explosives       |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-21 | The Blacksite  | Stealth | No Suppressors, Reinforced Doors, Fifteen Minutes       |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-22 | # The Score    | Loud    | Glass Cannon, Criminal Arsenal, Mandatory Headshots     |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-23 | Black Dusk     | Loud    | No Heavy Armor, Aegis Academy, Explosive Revenge        |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-24 | The Blacksite  | Loud    | Cascade Arsenal, Less Health, Explosive Flashbangs      |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-25 | The Withdrawal | Stealth | Fog, Reinforced Doors, Hidden UI                        |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-26 | The Scientist  | Stealth | Reinforced Locks, Heavy Bags, Reinforced Cameras        |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-27 | # The Auction  | Stealth | No Scrambler, Hidden Detection Bars, No Disguise        |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-28 | The Deposit    | Stealth | No Interrogation, Fifteen Minutes, No Moving Bodies     |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-29 | The Killhouse  | Stealth | No Suppressors, Unskilled, Faster Detection             |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-30 | The Financier  | Stealth | No Safecracking, Unintimidating, No Lockpicks           |
++------------+----------------+---------+---------------------------------------------------------+
+| 2024-12-31 | The Lakehouse  | Loud    | Mandatory Headshots, Armera Arsenal, Shield Swarm       |
++------------+----------------+---------+---------------------------------------------------------+
