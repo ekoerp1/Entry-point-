@@ -1,0 +1,63 @@
++------------+----------------+---------+----------------------------------------------------------+
+| Date       | Mission        | Tactic  | Hide Upcoming ChallengesModifiers                        |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-01 | The Score      | Loud    | Glass Cannon, Explosive Flashbangs, Explosive Revenge    |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-02 | The Blacksite  | Loud    | Glass Cannon, Weaker Medkits, Explosive Revenge          |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-03 | The Withdrawal | Loud    | No Aegis Armor, Reinforced Doors, Less Health            |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-04 | The SCRS       | Stealth | Fog, Reinforced Cameras, Hidden UI                       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-05 | The Killhouse  | Stealth | No Hybrid Classes, Reinforced Locks, No Moving Bodies    |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-06 | The Cache      | Stealth | No Safecracking, No Scrambler, Bloodless                 |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-07 | The Scientist  | Stealth | Heavy Bags, Hidden Detection Bars, Fifteen Minutes       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-08 | The Deposit    | Loud    | Mandatory Headshots, Criminal Arsenal, Flashbang Revenge |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-09 | The Lakehouse  | Stealth | Faster Detection, No Lockpicks, Takedown Limit (4)       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-10 | The Financier  | Stealth | Cascade Arsenal, Unintimidating, Inexperienced           |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-11 | The Lockup     | Loud    | Armera Arsenal, Aegis Academy, Explosive Flashbangs      |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-12 | The SCRS       | Stealth | Reinforced Cameras, Hidden UI, Takedown Limit (6)        |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-13 | The Financier  | Stealth | Reinforced Locks, Inexperienced, Fifteen Minutes         |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-14 | The Scientist  | Loud    | Mandatory Headshots, Weaker Medkits, One Shot            |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-15 | The Blacksite  | Stealth | Bloodless, No Scrambler, Hidden Detection Bars           |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-16 | The Gala       | Stealth | Heavy Bags, Reinforced Doors, Faster Detection           |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-17 | The Deposit    | Loud    | Armera Arsenal, Less Health, Aegis Academy               |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-18 | Black Dusk     | Loud    | Criminal Arsenal, No Explosives, Explosive Revenge       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-19 | The Lakehouse  | Stealth | Fog, No Suppressors, No Lockpicks                        |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-20 | The Withdrawal | Loud    | No Aegis Armor, Cascade Arsenal, Flashbang Revenge       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-21 | The Lockup     | Loud    | Glass Cannon, No Equipment Bags, Flashbang Frenzy        |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-22 | The Killhouse  | Stealth | No Interrogation, Fifteen Minutes, No Moving Bodies      |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-23 | The Withdrawal | Loud    | Aegis Academy, Hidden UI, Shield Swarm                   |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-24 | The Deposit    | Stealth | Fog, Heavy Bags, Inexperienced                           |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-25 | Black Dusk     | Loud    | Armera Arsenal, Flashbang Revenge, No Explosives         |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-26 | The Auction    | Stealth | No Suppressors, Cascade Arsenal, Takedown Limit (4)      |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-27 | The Blacksite  | Loud    | No Equipment Bags, Reinforced Locks, Less Health         |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-28 | The SCRS       | Stealth | No Safecracking, No Lockpicks, Reinforced Cameras        |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-29 | The Financier  | Loud    | Boarded Up, Mandatory Headshots, Explosive Revenge       |
++------------+----------------+---------+----------------------------------------------------------+
+| 2025-04-30 | The Lakehouse  | Loud    | Small Arms Only, No Heavy Armor, One Shot                |
++------------+----------------+---------+----------------------------------------------------------+
